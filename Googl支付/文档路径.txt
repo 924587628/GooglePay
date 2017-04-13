@@ -1,0 +1,10 @@
+Google支付：
+
+//中文版详解
+https://developer.android.com/google/play/billing/billing_testing.html#testing-purchases
+
+//英文教程
+https://developer.android.com/training/multiple-apks/index.html
+
+错误问题解决:
+https://github.com/googlesamples/android-play-billing/issues
